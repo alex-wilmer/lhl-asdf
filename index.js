@@ -1,1 +1,1 @@
-module.export = string => "I fell in a ${string} once"
+module.exports = string => "I fell in a ${string} once"
