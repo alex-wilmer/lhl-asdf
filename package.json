@@ -1,0 +1,15 @@
+{
+  "name": "react-lhl-asdf",
+  "version": "0.1.0",
+  "description": "Making a thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git@github.com:ifellinaholeonce/lhl-asdf.git"
+  },
+  "author": "Tymm Schmitke",
+  "license": "ISC"
+}
